@@ -1,0 +1,9 @@
+{
+"_id":{"$oid":"5ecea1b690cfa44a44f83139"},
+"user_id":"1",
+"firstName":"Student",
+"course_name":"frontend",
+"subsection":"1",
+"difficulty":"easy",
+"no_of_mcq":"10"
+}
